@@ -1,9 +1,11 @@
+import { FAQSection } from './Components/FAQSection/FAQSection'
 
 function App() {
-  return (
-    <>
-    </>
-  )
+	return (
+		<>
+			<FAQSection />
+		</>
+	)
 }
 
 export default App
